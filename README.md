@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjavv
-- 👀 I’m interested in web development
+- 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any projects on front end development
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me @javeriahashmi25@gmail.com
 
 <!---
