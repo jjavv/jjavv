@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjavv
-- 👀 I’m interested in AI and Robotics
+- 👀 I’m interested in AI and Hardware Design
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me @javeriahashmi25@gmail.com
